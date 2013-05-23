@@ -1,0 +1,14 @@
+C:\Users\IT_PEMO\Documents\Visual Studio 2012\Projects\PhoneFind\PhoneFind\bin\Release\HtmlAgilityPack.dll
+C:\Users\IT_PEMO\Documents\Visual Studio 2012\Projects\PhoneFind\PhoneFind\obj\Release\PhoneFind.frmMain.resources
+C:\Users\IT_PEMO\Documents\Visual Studio 2012\Projects\PhoneFind\PhoneFind\obj\Release\PhoneFind.frmHelp.resources
+C:\Users\IT_PEMO\Documents\Visual Studio 2012\Projects\PhoneFind\PhoneFind\obj\Release\PhoneFind.Properties.Resources.resources
+C:\Users\IT_PEMO\Documents\Visual Studio 2012\Projects\PhoneFind\PhoneFind\obj\Release\PhoneFind.frmMain.en.resources
+C:\Users\IT_PEMO\Documents\Visual Studio 2012\Projects\PhoneFind\PhoneFind\obj\Release\ActionFinder.csproj.GenerateResource.Cache
+C:\Users\IT_PEMO\Documents\Visual Studio 2012\Projects\PhoneFind\PhoneFind\bin\Release\ActionRex.exe.config
+C:\Users\IT_PEMO\Documents\Visual Studio 2012\Projects\PhoneFind\PhoneFind\obj\Release\ActionRex.exe
+C:\Users\IT_PEMO\Documents\Visual Studio 2012\Projects\PhoneFind\PhoneFind\obj\Release\ActionRex.pdb
+C:\Users\IT_PEMO\Documents\Visual Studio 2012\Projects\PhoneFind\PhoneFind\bin\Release\ActionRex.exe
+C:\Users\IT_PEMO\Documents\Visual Studio 2012\Projects\PhoneFind\PhoneFind\bin\Release\ActionRex.pdb
+C:\Users\IT_PEMO\Documents\Visual Studio 2012\Projects\PhoneFind\PhoneFind\bin\Release\en\ActionRex.resources.dll
+C:\Users\IT_PEMO\Documents\Visual Studio 2012\Projects\PhoneFind\PhoneFind\obj\Release\ActionFinder.csprojResolveAssemblyReference.cache
+C:\Users\IT_PEMO\Documents\Visual Studio 2012\Projects\PhoneFind\PhoneFind\obj\Release\en\ActionRex.resources.dll
